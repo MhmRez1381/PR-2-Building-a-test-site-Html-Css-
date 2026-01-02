@@ -27,7 +27,7 @@ This is a simple educational website built with HTML and CSS to help users pract
 
 No additional setup or servers needed—it's a static site.
 
-![GridArt_۲۰۲۶۰۱۰۲_۱۹۱۳۴۹۰۶۹](https://github.com/user-attachments/assets/dbb5d34c-b056-432c-a6f9-5f86cb5009d3)
+![GridArt_۲۰۲۶۰۱۰۲_۱۹۲۴۵۵۷۳۹](https://github.com/user-attachments/assets/28cc8b31-3cf2-4ca0-b281-dddf649581ee)
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements, such as adding more quizzes, JavaScript for scoring, or better accessibility.
